@@ -1,0 +1,20 @@
+import math
+def thousand_sep(num):
+    return ("{:,}".format(num))
+
+#print(thousand_sep(1000000000))
+
+
+n = float(input("Gia tien : "))
+
+z = math.pow(10, 6)
+if n<20:
+   print(thousand_sep(n*z))
+elif n<50:
+   print(thousand_sep(n*z*0.04))
+elif n<100:
+   print(thousand_sep(n*z*0.055))
+else:
+   print(thousand_sep(n*z*0.065))
+
+print("Menh Gia: VND")
