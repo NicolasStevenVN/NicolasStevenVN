@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicolasStevenVN
+- 👋 Hi, I’m Duc Anh
 - 👀 I’m interested in Artificial Intelligent
 - 🌱 I’m currently learning English and German
 - 💞️ I’m looking to collaborate on science computer
